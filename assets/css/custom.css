@@ -1,0 +1,6 @@
+/* Custom */
+
+.header-hero::before {
+
+    opacity: .6;
+}
